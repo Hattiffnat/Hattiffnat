@@ -2,8 +2,6 @@
 
 ## BTC
 
-<!-- ![BTC](https://raw.githubusercontent.com/Hattiffnat/donate_details/main/btc_200x200.png) -->
-
 ![BTC](https://raw.githubusercontent.com/Hattiffnat/donate_details/main/btc_200x200.png)
 
 `bc1qejt0k8daahgr5eng0hdjeta4w2jx7yagv6cdcq`
